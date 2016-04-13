@@ -1,0 +1,28 @@
+p {
+    color: goldenrod;
+}
+
+h1 {
+    border: 2px #ccc solid;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0)60%, blue) linear-gradient(70deg, #e0f1ff 32%, #fffae3);
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 2px, 2px, 4px, 2px rgba(0, 0, 0, 0.2);
+    background-color: pink;
+}
+
+p {
+    border: 2px #ccc solid;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0)60%, blue) linear-gradient(70deg, #e0f1ff 32%, #fffae3);
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 2px, 2px, 4px, 2px rgba(0, 0, 0, 0.2);
+    background-color: pink;
+}
+
+div.left {
+    width: 20px;
+    float: left: ;
+}
