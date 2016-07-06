@@ -1,0 +1,10 @@
+.one{
+	position: absolute;
+    left: 0;
+    top: 53px;
+    width: 487px;
+    height: 366px;
+   /* background-image: url(../images/l2-1.png);*/
+    opacity: 0;
+    transition: all 1.5s;
+}
